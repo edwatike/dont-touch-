@@ -1,0 +1,10 @@
+playwright
+python-dotenv
+aiohttp
+beautifulsoup4
+lxml
+fake-useragent
+requests
+sqlalchemy
+tqdm
+colorama 
